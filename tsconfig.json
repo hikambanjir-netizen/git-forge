@@ -1,0 +1,1 @@
+{"compilerOptions":{"esModuleInterop":true,"forceConsistentCasingInFileNames":true,"lib":["ES2022"],"module":"commonjs","moduleResolution":"node","noEmit":true,"skipLibCheck":true,"strict":false,"target":"ES2022"},"include":["main.ts"]}
